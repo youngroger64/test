@@ -5,6 +5,6 @@ public class GitTest {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("gittest 1");
+		System.out.println("gittest 1 from github");
 	}
 }
